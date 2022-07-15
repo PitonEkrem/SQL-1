@@ -1,5 +1,5 @@
 # SQL
-SQL ODEV
+SQL 1-ODEV
 patikadev profilim=https://app.patika.dev/akyolmete
 - 1) film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 
